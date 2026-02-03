@@ -1,6 +1,6 @@
 import tkinter as tk
 
-# ایجاد پنجره اصلی
+## ایجاد پنجره اصلی
 root = tk.Tk()
 root.title("ماشین حساب ساده")
 
